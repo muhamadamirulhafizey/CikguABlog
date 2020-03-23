@@ -12,6 +12,7 @@
 <link href="/css/treeview.css" rel="stylesheet">
 <link href="/css/all.css" rel="stylesheet">
 <script src="https://kit.fontawesome.com/yourcode.js"></script>
-<link href="{{ asset('/css/all.css') }}" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 
 
